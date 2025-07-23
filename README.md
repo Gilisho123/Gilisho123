@@ -3,12 +3,22 @@
 # 👋 Hi, I'm Gilisho Leteipa!
 
 
-![License](https://img.shields.io/github/license/Gilisho123/PERSONAL)
-![Stars](https://img.shields.io/github/stars/Gilisho123/PERSONAL)
-![Last Commit](https://img.shields.io/github/last-commit/Gilisho123/PERSONAL)
+![License](https://img.shields.io/github/license/Gilisho123/Gilisho123)
+![Stars](https://img.shields.io/github/stars/Gilisho123/Gilisho123)
+![Last Commit](https://img.shields.io/github/last-commit/Gilisho123/Gilisho123)
 ![GitHub followers](https://img.shields.io/github/followers/Gilisho123?label=Followers&style=social)
+![GitHub followers](https://img.shields.io/github/followers/Gilisho123?label=Following&style=social)
 
-BSc Statistics and Programming || Software Engineer || Entry-Level Data analyst || Data Enthusiast || Research || Proficient in Excel, SPSS, R, C++, Python
+
+## BSc Statistics and Programming || Software Engineer || Entry-Level Data analyst || Data Enthusiast || Research || Proficient in Excel, SPSS, R, C++, Python
+
+## 📫 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/gilisho-leteipa-842210374)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github)](https://github.com/Gilisho123)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-green?style=flat&logo=WhatsApp)](https://wa.me/message/IVVKK6GODTC2K1)
+[![Facebook](https://img.shields.io/badge/Facebook-blue?style=flat&logo=Facebook)](https://www.facebook.com/statisticianleteipa)
+[![Twitter](https://img.shields.io/badge/-Twitter-black?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/leteipagilisho)](https://twitter.com/leteipagilisho)
+[![Email](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leteipagilisho@gmail.com)](mailto:leteipagilisho@gmail.com)
   
 
 ## 🌱 Currently Learning
@@ -60,25 +70,13 @@ BSc Statistics and Programming || Software Engineer || Entry-Level Data analyst 
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=Gilisho123&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true)
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gilisho123&theme=github-dark&hide_border=true" width="47%"/>
-</p>
-
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gilisho123&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gilisho123&layout=compact&theme=radical)
 
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Gilisho123&theme=radical&no-frame=false&no-bg=true&margin-w=1)
 
-
-## 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/gilisho-leteipa-842210374)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github)](https://github.com/Gilisho123)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-green?style=flat&logo=WhatsApp)](https://wa.me/message/IVVKK6GODTC2K1)
-[![Facebook](https://img.shields.io/badge/Facebook-blue?style=flat&logo=Facebook)](https://www.facebook.com/statisticianleteipa)
-[![Twitter](https://img.shields.io/badge/-Twitter-black?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/leteipagilisho)](https://twitter.com/leteipagilisho)
-[![Email](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leteipagilisho@gmail.com)](mailto:leteipagilisho@gmail.com)
 
 ## Table of Contents
 - [About](#about)
