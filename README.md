@@ -1,9 +1,7 @@
 # Gilisho123
 
 # 👋 Hi, I'm Gilisho Leteipa!
-<p align="center">
-<img src="https://github.com/Gilisho123.png" alt="Gilisho123" width="200" height="200" style="border-radius: 10%;">
-</p>
+
 
 ![License](https://img.shields.io/github/license/Gilisho123/PERSONAL)
 ![Stars](https://img.shields.io/github/stars/Gilisho123/PERSONAL)
