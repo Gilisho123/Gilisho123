@@ -1,6 +1,6 @@
 # Gilisho123
 
-# 👋 Hi, I'm Gilisho Leteipa!
+# 👋 Hi, I'm Gilisho Leteipa
 
 
 ![License](https://img.shields.io/github/license/Gilisho123/Gilisho123)
